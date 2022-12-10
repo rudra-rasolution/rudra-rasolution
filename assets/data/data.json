@@ -16,10 +16,10 @@
   },
   "services": [
     {
-      "key": "interaday-cash",
-      "name": "INTERADAY CASH",
-      "shortDescription": "In INTERADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE",
-      "description": "In INTERADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of intraday movement in securities on daily basis. As the risk is reduces because calls are provided on intraday basis and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
+      "key": "intraday-cash",
+      "name": "INTRADAY CASH",
+      "shortDescription": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE",
+      "description": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of intraday movement in securities on daily basis. As the risk is reduces because calls are provided on intraday basis and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
       "riskType": "Moderate Risk",
       "serviceFeatures": [
         "In this pack we will provide you 3-5 calls in a day",
@@ -55,8 +55,8 @@
       ]
     },
     {
-      "key": "interaday-future",
-      "name": "INTERADAY FUTURE",
+      "key": "intraday-future",
+      "name": "INTRADAY FUTURE",
       "shortDescription": "This product is specifically designed to provide bigger targets call for intraday stock future clients with high level of accuracy by tracking volume, open interest, technical patterns along with fundamental studies",
       "description": "In this service we provide stock Futures calls with a high level of accuracy. Deep research and strong predictions made by our research team in order to give stock future tips for our new and old clients makes sure that you make huge profits through your investments.",
       "riskType": "High Risk",
@@ -96,10 +96,10 @@
       ]
     },
     {
-      "key": "interaday-option",
-      "name": "INTERADAY OPTION",
-      "shortDescription": "Interaday option service is specifically designed for option traders trading with low risk",
-      "description": "Interaday option service is specifically designed for option traders trading with low risk. best tips to intraday traders for making money with minimum risk. We have a team of analysts who are specialized in Tracking F&O market and keep a complete track records of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves",
+      "key": "intraday-option",
+      "name": "INTRADAY OPTION",
+      "shortDescription": "Intraday option service is specifically designed for option traders trading with low risk",
+      "description": "Intraday option service is specifically designed for option traders trading with low risk. best tips to intraday traders for making money with minimum risk. We have a team of analysts who are specialized in Tracking F&O market and keep a complete track records of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves",
       "riskType": "High Risk ",
       "serviceFeatures": [
         "In this pack we will provide you 3-4 calls in a day",
