@@ -1,10 +1,25 @@
 {
   "menu": [
-    "Home",
-    "About",
-    "Services",
-    "Pricing",
-    "Contact"
+    {
+      "header": "Home",
+      "link": "."
+    },
+    {
+      "header": "About",
+      "link": "."
+    },
+    {
+      "header": "Services",
+      "link": "."
+    },
+    {
+      "header": "Pricing",
+      "link": "/pricing"
+    },
+    {
+      "header": "Contact",
+      "link": "."
+    }
   ],
   "contact": {
     "name": "Rudra",
@@ -152,6 +167,125 @@
       "mediumOfCalls": [
         "Calls will be given only on SMS",
         "India: All GSM & CDMA Networks Covered"
+      ]
+    }
+  ],
+  "pricing": [
+    {
+      "market": "EQUITY MARKET",
+      "options": [
+        {
+          "key": "intraday-cash",
+          "name": "INTRADAY CASH",
+          "packages": [
+            {
+              "frequency": "Monthly",
+              "price": "5000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "12,500",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "premium-cash",
+          "name": "PREMIUM CASH",
+          "packages": [
+            {
+              "frequency": "Monthly",
+              "price": "15,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "40,500",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "intraday-future",
+          "name": "INTRADAY FUTURE",
+          "packages": [
+            {
+              "frequency": "Monthly",
+              "price": "10,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "25,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "premium-future ",
+          "name": "PREMIUM FUTURE",
+          "packages": [
+            {
+              "frequency": "Monthly",
+              "price": "15,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "40,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "intraday-option",
+          "name": "INTRADAY OPTION",
+          "packages": [
+            {
+              "frequency": "Monthly",
+              "price": "7000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "18,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "premium-option",
+          "name": "PREMIUM OPTION",
+          "packages": [
+            {
+              "frequency": "Monthly",
+              "price": "15,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "40,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "index-option",
+          "name": "INDEX OPTION",
+          "packages": [
+            {
+              "frequency": "Monthly",
+              "price": "15,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "40,000",
+              "colorCode": "text-info"
+            }
+          ]
+        }
       ]
     }
   ]
