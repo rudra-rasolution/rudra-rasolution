@@ -6,11 +6,11 @@
     },
     {
       "header": "About",
-      "link": "."
+      "link": "/about"
     },
     {
       "header": "Services",
-      "link": "."
+      "link": "/services"
     },
     {
       "header": "Pricing",
@@ -29,144 +29,177 @@
     "address": "Bajaj  Wing mangalwari Complex Sadar  Nagpur (MH) 440001",
     "shortAddress": "Nagpur (MH) 440001"
   },
+  "generalInfo": {
+    "sebiNo": "SEBI Registration Number INH000010609"
+  },
+  "aboutUs": [
+    {
+      "header": "Let Tomorrow begins Today",
+      "description": "RA SOLUTION  Advisory Services is a SEBI registered Firm , which is providing integrated financial service recommendations across Indian Capital Market. We have a team of highly motivated research analysts who are keen to deliver profit driven strategies and safety trading tips for customers as per their financial investment needs. We provide recommendations in Capital market traders & Investors with high level of accuracy and trustworthy, following all the norms and regulations of SEBI for security. RA SOLUTION  provides customized services to our clients with reasonably priced package and works in such a way that traders may book profit both in bullish and bearish market."
+    },
+    {
+      "header": "Our Mission",
+      "description": "RA SOLUTION  Advisory Services  commits to deliver strong financial advisory operational performance amid challenges in Indian economy. We keep alive our trustworthy image in all our services helping clients to achieve new heights at their financial landscape."
+    },
+    {
+      "header": "Our Goal",
+      "description": "RA SOLUTION  Advisory Services  keeps its goal to focus traders’ sight in Global Capital Markets eventually providing its candid recommendations to help traders generate revenue globally."
+    },
+    {
+      "header": "Our Vision",
+      "description": "Our vision is to serve the requirements of direct monetary expert, venture counselors, through its journalist administrations. This remembers giving clearing administrations to values, subsidiaries, choices, just as different request section and insightful exchanging stages. We need to be a top forerunner in the Worldwide Capital Market and give the most noteworthy achievement proportion in value and item market proposals and furthermore to give best return for everything with us"
+    }
+  ],
   "services": [
     {
-      "key": "intraday-cash",
-      "name": "INTRADAY CASH",
-      "shortDescription": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE",
-      "description": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of intraday movement in securities on daily basis. As the risk is reduces because calls are provided on intraday basis and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
-      "riskType": "Moderate Risk",
-      "serviceFeatures": [
-        "In this pack we will provide you 3-5 calls in a day",
-        "Each call consist 3 targets and 1 Stop loss",
-        "Maximum 2 open position at a time",
-        "Domestic and Global Market position Overview",
-        "Customer Support at Market Hours",
-        "Market trend with Support and resistance",
-        "Economic Update"
-      ],
-      "mediumOfCalls": [
-        "Calls will be given only on SMS",
-        "India: All GSM & CDMA Networks Covered"
+      "key": "equity-market",
+      "market": "EQUITY MARKET",
+      "options": [
+        {
+          "key": "intraday-cash",
+          "name": "INTRADAY CASH",
+          "shortDescription": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE",
+          "description": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of intraday movement in securities on daily basis. As the risk is reduces because calls are provided on intraday basis and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
+          "riskType": "Moderate Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 3-5 calls in a day",
+            "Each call consist 3 targets and 1 Stop loss",
+            "Maximum 2 open position at a time",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Market trend with Support and resistance",
+            "Economic Update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "premium-cash",
+          "name": "PREMIUM CASH",
+          "shortDescription": "In PREMIUM CASH Package we provide stock cash intraday tips for traders who trade in NSE HEAVY WEIGHTS SCRIPTS",
+          "description": "In PREMIUM CASH Package we provide stock cash intraday tips for traders who trade in NSE HEAVY WEIGHTS SCRIPTS. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of daily movement in securities on daily basis. As the risk is reduces because calls are provided in the heavy volume scripts and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
+          "riskType": "Moderate Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 1-2 calls in a day",
+            "Each call consist 2 targets and 1 Stop loss",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Market trend with support and resistance",
+            "Economic update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        }
       ]
     },
     {
-      "key": "premium-cash",
-      "name": "PREMIUM CASH",
-      "shortDescription": "In PREMIUM CASH Package we provide stock cash intraday tips for traders who trade in NSE HEAVY WEIGHTS SCRIPTS",
-      "description": "In PREMIUM CASH Package we provide stock cash intraday tips for traders who trade in NSE HEAVY WEIGHTS SCRIPTS. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of daily movement in securities on daily basis. As the risk is reduces because calls are provided in the heavy volume scripts and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
-      "riskType": "Moderate Risk",
-      "serviceFeatures": [
-        "In this pack we will provide you 1-2 calls in a day",
-        "Each call consist 2 targets and 1 Stop loss",
-        "Domestic and Global Market position Overview",
-        "Customer Support at Market Hours",
-        "Market trend with support and resistance",
-        "Economic update"
-      ],
-      "mediumOfCalls": [
-        "Calls will be given only on SMS",
-        "India: All GSM & CDMA Networks Covered"
-      ]
-    },
-    {
-      "key": "intraday-future",
-      "name": "INTRADAY FUTURE",
-      "shortDescription": "This product is specifically designed to provide bigger targets call for intraday stock future clients with high level of accuracy by tracking volume, open interest, technical patterns along with fundamental studies",
-      "description": "In this service we provide stock Futures calls with a high level of accuracy. Deep research and strong predictions made by our research team in order to give stock future tips for our new and old clients makes sure that you make huge profits through your investments.",
-      "riskType": "High Risk",
-      "serviceFeatures": [
-        "In this pack we will provide you 3-4 calls in a day",
-        "Each call consist 3 targets and 1 Stop loss",
-        "Maximum 2 open position at a time",
-        "Proper follow-ups and Market News Updates",
-        "Domestic and Global Market position Overview",
-        "Customer Support at Market Hours",
-        "Market trend with support and resistance",
-        "Economic update"
-      ],
-      "mediumOfCalls": [
-        "Calls will be given only on SMS",
-        "India: All GSM & CDMA Networks Covered"
-      ]
-    },
-    {
-      "key": "premium-future ",
-      "name": "PREMIUM FUTURE",
-      "shortDescription": "In this service we provide stock Futures calls with a high level of accuracy",
-      "description": "This product is specifically designed to provide bigger targets call for intraday stock future clients with high level of accuracy by tracking volume, open interest , technical patterns along with fundamental studies",
-      "riskType": "High Risk ",
-      "serviceFeatures": [
-        "In this pack we will provide you 2-3 calls in a week",
-        "Each call consists of 2 targets and 1 Stop loss",
-        "Proper follow-ups and Market News Updates",
-        "Domestic and Global Market position Overview",
-        "Customer Support at Market Hours",
-        "Market trend with Support and resistance",
-        "Economic Update"
-      ],
-      "mediumOfCalls": [
-        "Calls will be given only on SMS",
-        "India: All GSM & CDMA Networks Covered"
-      ]
-    },
-    {
-      "key": "intraday-option",
-      "name": "INTRADAY OPTION",
-      "shortDescription": "Intraday option service is specifically designed for option traders trading with low risk",
-      "description": "Intraday option service is specifically designed for option traders trading with low risk. best tips to intraday traders for making money with minimum risk. We have a team of analysts who are specialized in Tracking F&O market and keep a complete track records of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves",
-      "riskType": "High Risk ",
-      "serviceFeatures": [
-        "In this pack we will provide you 3-4 calls in a day",
-        "Each call consists of 3 targets and 1 Stop loss",
-        "Maximum 2 open position at a time",
-        "Proper follow-ups and Market News Updates",
-        "Customer Support at Market Hours",
-        "Domestic and Global Market position Overview",
-        "Economic update"
-      ],
-      "mediumOfCalls": [
-        "Calls will be given only on SMS",
-        "India: All GSM & CDMA Networks Covered"
-      ]
-    },
-    {
-      "key": "premium-option",
-      "name": "PREMIUM OPTION",
-      "shortDescription": "Premium Option service is specifically designed for option traders who seek huge profit in short term",
-      "description": "Premium Option service is specifically designed for option traders who seek huge profit in short term.. The calls are based on long & short term trend of stock, technical and fundamental analysis of stocks",
-      "riskType": "High Risk",
-      "serviceFeatures": [
-        "In this pack we will provide you 1-2 calls in a day",
-        "Each call consist 2 targets and 1 Stop loss",
-        "Maximum 2 open position at a time",
-        "Proper follow-ups and Market News Updates",
-        "Domestic and Global Market position Overview",
-        "Customer Support at Market Hours",
-        "Economic Update"
-      ],
-      "mediumOfCalls": [
-        "Calls will be given only on SMS",
-        "India: All GSM & CDMA Networks Covered"
-      ]
-    },
-    {
-      "key": "index-future-option",
-      "name": "INDEX FUTURE & OPTION",
-      "shortDescription": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options",
-      "description": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options. We have a team of analysts who are specialized in Tracking Index and keep a complete global track of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves.",
-      "riskType": "High Risk",
-      "serviceFeatures": [
-        "In this pack we will provide you 4-5 call in a week in nifty or bank nifty option",
-        "Each call consists of 3 targets and 1 Stop loss",
-        "Maximum 1 open position at a time",
-        "Proper follow-ups and Market News Updates",
-        "We provide our Clients very good accuracy in this service",
-        "Domestic and Global Market position Overview"
-      ],
-      "mediumOfCalls": [
-        "Calls will be given only on SMS",
-        "India: All GSM & CDMA Networks Covered"
+      "key": "future-market",
+      "market": "FUTURE  MARKET",
+      "options": [
+        {
+          "key": "intraday-future",
+          "name": "INTRADAY FUTURE",
+          "shortDescription": "This product is specifically designed to provide bigger targets call for intraday stock future clients with high level of accuracy by tracking volume, open interest, technical patterns along with fundamental studies",
+          "description": "In this service we provide stock Futures calls with a high level of accuracy. Deep research and strong predictions made by our research team in order to give stock future tips for our new and old clients makes sure that you make huge profits through your investments.",
+          "riskType": "High Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 3-4 calls in a day",
+            "Each call consist 3 targets and 1 Stop loss",
+            "Maximum 2 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Market trend with support and resistance",
+            "Economic update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "premium-future ",
+          "name": "PREMIUM FUTURE",
+          "shortDescription": "In this service we provide stock Futures calls with a high level of accuracy",
+          "description": "This product is specifically designed to provide bigger targets call for intraday stock future clients with high level of accuracy by tracking volume, open interest , technical patterns along with fundamental studies",
+          "riskType": "High Risk ",
+          "serviceFeatures": [
+            "In this pack we will provide you 2-3 calls in a week",
+            "Each call consists of 2 targets and 1 Stop loss",
+            "Proper follow-ups and Market News Updates",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Market trend with Support and resistance",
+            "Economic Update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "intraday-option",
+          "name": "INTRADAY OPTION",
+          "shortDescription": "Intraday option service is specifically designed for option traders trading with low risk",
+          "description": "Intraday option service is specifically designed for option traders trading with low risk. best tips to intraday traders for making money with minimum risk. We have a team of analysts who are specialized in Tracking F&O market and keep a complete track records of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves",
+          "riskType": "High Risk ",
+          "serviceFeatures": [
+            "In this pack we will provide you 3-4 calls in a day",
+            "Each call consists of 3 targets and 1 Stop loss",
+            "Maximum 2 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "Customer Support at Market Hours",
+            "Domestic and Global Market position Overview",
+            "Economic update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "premium-option",
+          "name": "PREMIUM OPTION",
+          "shortDescription": "Premium Option service is specifically designed for option traders who seek huge profit in short term",
+          "description": "Premium Option service is specifically designed for option traders who seek huge profit in short term.. The calls are based on long & short term trend of stock, technical and fundamental analysis of stocks",
+          "riskType": "High Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 1-2 calls in a day",
+            "Each call consist 2 targets and 1 Stop loss",
+            "Maximum 2 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Economic Update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "index-future-option",
+          "name": "INDEX FUTURE & OPTION",
+          "shortDescription": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options",
+          "description": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options. We have a team of analysts who are specialized in Tracking Index and keep a complete global track of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves.",
+          "riskType": "High Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 4-5 call in a week in nifty or bank nifty option",
+            "Each call consists of 3 targets and 1 Stop loss",
+            "Maximum 1 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "We provide our Clients very good accuracy in this service",
+            "Domestic and Global Market position Overview"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        }
       ]
     }
   ],
@@ -271,7 +304,7 @@
           ]
         },
         {
-          "key": "index-option",
+          "key": "index-future-option",
           "name": "INDEX OPTION",
           "packages": [
             {
