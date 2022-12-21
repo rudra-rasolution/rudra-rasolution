@@ -305,7 +305,7 @@
         },
         {
           "key": "index-future-option",
-          "name": "INDEX OPTION",
+          "name": "INDEX FUTURE & OPTION",
           "packages": [
             {
               "frequency": "Monthly",
