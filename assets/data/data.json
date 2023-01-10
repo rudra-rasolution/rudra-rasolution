@@ -182,8 +182,28 @@
           ]
         },
         {
-          "key": "index-future-option",
-          "name": "INDEX FUTURE & OPTION",
+          "key": "index-future",
+          "name": "INDEX FUTURE",
+          "shortDescription": "This package generates trading recommendations in Nifty and Bank Nifty Futures",
+          "description": "This package generates trading recommendations in Nifty and Bank Nifty Futures. We have a team of analysts who are specialized in Tracking Index and keep a complete global track of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves.",
+          "riskType": "Medium Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 4-5 call in a week in Nifty or Bank Nifty Index",
+            "Each call consists of  targets and 1 Stop loss",
+            "Maximum 1 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "We provide our Clients very good accuracy in this service",
+            "Domestic and Global Market position Overview",
+            "Active client support from 9:00 AM to 6.30 PM"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on Whatsapp",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "index-option",
+          "name": "INDEX OPTION",
           "shortDescription": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options",
           "description": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options. We have a team of analysts who are specialized in Tracking Index and keep a complete global track of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves.",
           "riskType": "High Risk",
@@ -196,7 +216,7 @@
             "Domestic and Global Market position Overview"
           ],
           "mediumOfCalls": [
-            "Calls will be given only on SMS",
+            "Calls will be given only on Whatsapp",
             "India: All GSM & CDMA Networks Covered"
           ]
         }
@@ -304,8 +324,24 @@
           ]
         },
         {
-          "key": "index-future-option",
-          "name": "INDEX FUTURE & OPTION",
+          "key": "index-future",
+          "name": "INDEX FUTURE",
+          "packages": [
+            {
+              "frequency": "Monthly",
+              "price": "15,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "40,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "index-option",
+          "name": "INDEX OPTION",
           "packages": [
             {
               "frequency": "Monthly",
