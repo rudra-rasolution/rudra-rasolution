@@ -1,0 +1,441 @@
+{
+  "menu": [
+    {
+      "header": "Home",
+      "link": "."
+    },
+    {
+      "header": "About",
+      "link": "/about"
+    },
+    {
+      "header": "Services",
+      "link": "/services"
+    },
+    {
+      "header": "Pricing",
+      "link": "/pricing"
+    },
+    {
+      "header": "Contact",
+      "link": "/contact"
+    }
+  ],
+  "contact": {
+    "name": "Rudra",
+    "officialEMail": "info@rasolution.co.in",
+    "officialMobile": "0712-4064127",
+    "personalMobile": "9981526974",
+    "address": "Bajaj  Wing mangalwari Complex Sadar  Nagpur (MH) 440001",
+    "shortAddress": "Nagpur (MH) 440001"
+  },
+  "generalInfo": {
+    "sebiNo": "SEBI Registration Number INH000010609"
+  },
+  "aboutUs": [
+    {
+      "header": "Let Tomorrow begins Today",
+      "description": "RA SOLUTION  Advisory Services is a SEBI registered Firm , which is providing integrated financial service recommendations across Indian Capital Market. We have a team of highly motivated research analysts who are keen to deliver profit driven strategies and safety trading tips for customers as per their financial investment needs. We provide recommendations in Capital market traders & Investors with high level of accuracy and trustworthy, following all the norms and regulations of SEBI for security. RA SOLUTION  provides customized services to our clients with reasonably priced package and works in such a way that traders may book profit both in bullish and bearish market."
+    },
+    {
+      "header": "Our Mission",
+      "description": "RA SOLUTION  Advisory Services  commits to deliver strong financial advisory operational performance amid challenges in Indian economy. We keep alive our trustworthy image in all our services helping clients to achieve new heights at their financial landscape."
+    },
+    {
+      "header": "Our Goal",
+      "description": "RA SOLUTION  Advisory Services  keeps its goal to focus traders’ sight in Global Capital Markets eventually providing its candid recommendations to help traders generate revenue globally."
+    },
+    {
+      "header": "Our Vision",
+      "description": "Our vision is to serve the requirements of direct monetary expert, venture counselors, through its journalist administrations. This remembers giving clearing administrations to values, subsidiaries, choices, just as different request section and insightful exchanging stages. We need to be a top forerunner in the Worldwide Capital Market and give the most noteworthy achievement proportion in value and item market proposals and furthermore to give best return for everything with us"
+    }
+  ],
+  "services": [
+    {
+      "key": "equity-market",
+      "market": "EQUITY MARKET",
+      "options": [
+        {
+          "key": "intraday-cash",
+          "name": "INTRADAY CASH",
+          "shortDescription": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE",
+          "description": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of intraday movement in securities on daily basis. As the risk is reduces because calls are provided on intraday basis and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
+          "riskType": "Moderate Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 3-5 calls in a day",
+            "Each call consist 3 targets and 1 Stop loss",
+            "Maximum 2 open position at a time",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Market trend with Support and resistance",
+            "Economic Update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "premium-cash",
+          "name": "PREMIUM CASH",
+          "shortDescription": "In PREMIUM CASH Package we provide stock cash intraday tips for traders who trade in NSE HEAVY WEIGHTS SCRIPTS",
+          "description": "In PREMIUM CASH Package we provide stock cash intraday tips for traders who trade in NSE HEAVY WEIGHTS SCRIPTS. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of daily movement in securities on daily basis. As the risk is reduces because calls are provided in the heavy volume scripts and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
+          "riskType": "Moderate Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 1-2 calls in a day",
+            "Each call consist 2 targets and 1 Stop loss",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Market trend with support and resistance",
+            "Economic update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "future-market",
+      "market": "FUTURE  MARKET",
+      "options": [
+        {
+          "key": "intraday-future",
+          "name": "INTRADAY FUTURE",
+          "shortDescription": "This product is specifically designed to provide bigger targets call for intraday stock future clients with high level of accuracy by tracking volume, open interest, technical patterns along with fundamental studies",
+          "description": "In this service we provide stock Futures calls with a high level of accuracy. Deep research and strong predictions made by our research team in order to give stock future tips for our new and old clients makes sure that you make huge profits through your investments.",
+          "riskType": "High Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 3-4 calls in a day",
+            "Each call consist 3 targets and 1 Stop loss",
+            "Maximum 2 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Market trend with support and resistance",
+            "Economic update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "premium-future ",
+          "name": "PREMIUM FUTURE",
+          "shortDescription": "In this service we provide stock Futures calls with a high level of accuracy",
+          "description": "This product is specifically designed to provide bigger targets call for intraday stock future clients with high level of accuracy by tracking volume, open interest , technical patterns along with fundamental studies",
+          "riskType": "High Risk ",
+          "serviceFeatures": [
+            "In this pack we will provide you 2-3 calls in a week",
+            "Each call consists of 2 targets and 1 Stop loss",
+            "Proper follow-ups and Market News Updates",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Market trend with Support and resistance",
+            "Economic Update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "intraday-option",
+          "name": "INTRADAY OPTION",
+          "shortDescription": "Intraday option service is specifically designed for option traders trading with low risk",
+          "description": "Intraday option service is specifically designed for option traders trading with low risk. best tips to intraday traders for making money with minimum risk. We have a team of analysts who are specialized in Tracking F&O market and keep a complete track records of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves",
+          "riskType": "High Risk ",
+          "serviceFeatures": [
+            "In this pack we will provide you 3-4 calls in a day",
+            "Each call consists of 3 targets and 1 Stop loss",
+            "Maximum 2 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "Customer Support at Market Hours",
+            "Domestic and Global Market position Overview",
+            "Economic update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "premium-option",
+          "name": "PREMIUM OPTION",
+          "shortDescription": "Premium Option service is specifically designed for option traders who seek huge profit in short term",
+          "description": "Premium Option service is specifically designed for option traders who seek huge profit in short term.. The calls are based on long & short term trend of stock, technical and fundamental analysis of stocks",
+          "riskType": "High Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 1-2 calls in a day",
+            "Each call consist 2 targets and 1 Stop loss",
+            "Maximum 2 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "Domestic and Global Market position Overview",
+            "Customer Support at Market Hours",
+            "Economic Update"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on SMS",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "index-future",
+          "name": "INDEX FUTURE",
+          "shortDescription": "This package generates trading recommendations in Nifty and Bank Nifty Futures",
+          "description": "This package generates trading recommendations in Nifty and Bank Nifty Futures. We have a team of analysts who are specialized in Tracking Index and keep a complete global track of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves.",
+          "riskType": "Medium Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 4-5 call in a week in Nifty or Bank Nifty Index",
+            "Each call consists of  targets and 1 Stop loss",
+            "Maximum 1 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "We provide our Clients very good accuracy in this service",
+            "Domestic and Global Market position Overview",
+            "Active client support from 9:00 AM to 6.30 PM"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on Whatsapp",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "index-option",
+          "name": "INDEX OPTION",
+          "shortDescription": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options",
+          "description": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options. We have a team of analysts who are specialized in Tracking Index and keep a complete global track of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves.",
+          "riskType": "High Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 4-5 call in a week in nifty or bank nifty option",
+            "Each call consists of 3 targets and 1 Stop loss",
+            "Maximum 1 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "We provide our Clients very good accuracy in this service",
+            "Domestic and Global Market position Overview"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on Whatsapp",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        },
+        {
+          "key": "index-option-premium",
+          "name": "INDEX OPTION PREMIUM",
+          "shortDescription": "This service is exclusively designed for the traders who trade purely in Nifty & Bank Nifty Options",
+          "description": "We have a team of analysts who are specialized in Tracking Index and keep a complete global track of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves.",
+          "riskType": "High Risk",
+          "serviceFeatures": [
+            "In this pack we will provide you 3-4 call in a DAY in nifty or bank nifty option",
+            "Each call consists of 1 targets and 1 Stop loss",
+            "Maximum 1 open position at a time",
+            "Proper follow-ups and Market News Updates",
+            "We provide our Clients very good accuracy in this service",
+            "Domestic and Global Market position Overview"
+          ],
+          "mediumOfCalls": [
+            "Calls will be given only on Whatsapp",
+            "India: All GSM & CDMA Networks Covered"
+          ]
+        }
+      ]
+    }
+  ],
+  "pricing": [
+    {
+      "market": "EQUITY MARKET",
+      "options": [
+        {
+          "key": "intraday-cash",
+          "name": "INTRADAY CASH",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "5000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "10,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "27,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "premium-cash",
+          "name": "PREMIUM CASH",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "10,000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "30,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "75,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "intraday-future",
+          "name": "INTRADAY FUTURE",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "5000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "15,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "35,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "premium-future ",
+          "name": "PREMIUM FUTURE",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "10,000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "40,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "90,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "intraday-option",
+          "name": "INTRADAY OPTION",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "5000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "12,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "30,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "premium-option",
+          "name": "PREMIUM OPTION",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "10,000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "40,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "90,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "index-future",
+          "name": "INDEX FUTURE",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "5000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "15,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "40,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "index-option",
+          "name": "INDEX OPTION",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "5000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "15,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "40,000",
+              "colorCode": "text-info"
+            }
+          ]
+        },
+        {
+          "key": "index-option-premium",
+          "name": "INDEX OPTION PREMIUM",
+          "packages": [
+            {
+              "frequency": "Weekly",
+              "price": "10,000",
+              "colorCode": "text-secondary"
+            },
+            {
+              "frequency": "Monthly",
+              "price": "40,000",
+              "colorCode": "text-primary"
+            },
+            {
+              "frequency": "Quarterly",
+              "price": "90,000",
+              "colorCode": "text-info"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
