@@ -273,7 +273,7 @@
           "packages": [
             {
               "frequency": "Weekly",
-              "price": "5000",
+              "price": "10,000",
               "colorCode": "text-secondary"
             },
             {
@@ -315,7 +315,7 @@
           "packages": [
             {
               "frequency": "Weekly",
-              "price": "5000",
+              "price": "10,000",
               "colorCode": "text-secondary"
             },
             {
@@ -357,7 +357,7 @@
           "packages": [
             {
               "frequency": "Weekly",
-              "price": "5000",
+              "price": "10,000",
               "colorCode": "text-secondary"
             },
             {
@@ -420,7 +420,7 @@
           "packages": [
             {
               "frequency": "Weekly",
-              "price": "5000",
+              "price": "10,000",
               "colorCode": "text-secondary"
             },
             {
