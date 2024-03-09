@@ -62,8 +62,8 @@
           "description": "In INTRADAY CASH  Package we provide stock cash intraday tips for traders who trade in NSE. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of intraday movement in securities on daily basis. As the risk is reduces because calls are provided on intraday basis and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
           "riskType": "Moderate Risk",
           "serviceFeatures": [
-            "In this pack we will provide you 3-5 calls in a day",
-            "Each call consist 3 targets and 1 Stop loss",
+            "In this pack we will provide you 2-3 calls in a day",
+            "Each call consist 2 targets and 1 Stop loss",
             "Maximum 2 open position at a time",
             "Domestic and Global Market position Overview",
             "Customer Support at Market Hours",
@@ -82,7 +82,7 @@
           "description": "In PREMIUM CASH Package we provide stock cash intraday tips for traders who trade in NSE HEAVY WEIGHTS SCRIPTS. We provide calls for trading with proper targets and stop loss so traders can get maximum benefit out of daily movement in securities on daily basis. As the risk is reduces because calls are provided in the heavy volume scripts and also the margin requirement is not huge so traders with small amount of capital can also participate in the stock markets.",
           "riskType": "Moderate Risk",
           "serviceFeatures": [
-            "In this pack we will provide you 1-2 calls in a day",
+            "In this pack we will provide you 3-4 calls in a day",
             "Each call consist 2 targets and 1 Stop loss",
             "Domestic and Global Market position Overview",
             "Customer Support at Market Hours",
@@ -107,8 +107,8 @@
           "description": "In this service we provide stock Futures calls with a high level of accuracy. Deep research and strong predictions made by our research team in order to give stock future tips for our new and old clients makes sure that you make huge profits through your investments.",
           "riskType": "High Risk",
           "serviceFeatures": [
-            "In this pack we will provide you 3-4 calls in a day",
-            "Each call consist 3 targets and 1 Stop loss",
+            "In this pack we will provide you 2-3 calls in a day",
+            "Each call consist 2 targets and 1 Stop loss",
             "Maximum 2 open position at a time",
             "Proper follow-ups and Market News Updates",
             "Domestic and Global Market position Overview",
@@ -128,7 +128,7 @@
           "description": "This product is specifically designed to provide bigger targets call for intraday stock future clients with high level of accuracy by tracking volume, open interest , technical patterns along with fundamental studies",
           "riskType": "High Risk ",
           "serviceFeatures": [
-            "In this pack we will provide you 2-3 calls in a week",
+            "In this pack we will provide you 10-12 calls in a week",
             "Each call consists of 2 targets and 1 Stop loss",
             "Proper follow-ups and Market News Updates",
             "Domestic and Global Market position Overview",
@@ -148,8 +148,8 @@
           "description": "Intraday option service is specifically designed for option traders trading with low risk. best tips to intraday traders for making money with minimum risk. We have a team of analysts who are specialized in Tracking F&O market and keep a complete track records of all the national and international events and Major Sectors and blend it with technical analysis to predict the market moves",
           "riskType": "High Risk ",
           "serviceFeatures": [
-            "In this pack we will provide you 3-4 calls in a day",
-            "Each call consists of 3 targets and 1 Stop loss",
+            "In this pack we will provide you 2-3 calls in a day",
+            "Each call consists of 2 targets and 1 Stop loss",
             "Maximum 2 open position at a time",
             "Proper follow-ups and Market News Updates",
             "Customer Support at Market Hours",
@@ -168,7 +168,7 @@
           "description": "Premium Option service is specifically designed for option traders who seek huge profit in short term.. The calls are based on long & short term trend of stock, technical and fundamental analysis of stocks",
           "riskType": "High Risk",
           "serviceFeatures": [
-            "In this pack we will provide you 1-2 calls in a day",
+            "In this pack we will provide you 10-15 calls in a week",
             "Each call consist 2 targets and 1 Stop loss",
             "Maximum 2 open position at a time",
             "Proper follow-ups and Market News Updates",
@@ -264,6 +264,11 @@
               "frequency": "Quarterly",
               "price": "27,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "48,000",
+              "colorCode": "text-success"
             }
           ]
         },
@@ -285,6 +290,11 @@
               "frequency": "Quarterly",
               "price": "75,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "1,30,000",
+              "colorCode": "text-success"
             }
           ]
         },
@@ -306,6 +316,11 @@
               "frequency": "Quarterly",
               "price": "35,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "60,000",
+              "colorCode": "text-success"
             }
           ]
         },
@@ -327,6 +342,11 @@
               "frequency": "Quarterly",
               "price": "90,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "1,60,000",
+              "colorCode": "text-success"
             }
           ]
         },
@@ -348,6 +368,11 @@
               "frequency": "Quarterly",
               "price": "30,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "50,000",
+              "colorCode": "text-success"
             }
           ]
         },
@@ -369,6 +394,11 @@
               "frequency": "Quarterly",
               "price": "90,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "1,60,000",
+              "colorCode": "text-success"
             }
           ]
         },
@@ -390,6 +420,11 @@
               "frequency": "Quarterly",
               "price": "40,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "70,000",
+              "colorCode": "text-success"
             }
           ]
         },
@@ -411,6 +446,11 @@
               "frequency": "Quarterly",
               "price": "40,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "70,000",
+              "colorCode": "text-success"
             }
           ]
         },
@@ -432,6 +472,11 @@
               "frequency": "Quarterly",
               "price": "90,000",
               "colorCode": "text-info"
+            },
+            {
+              "frequency": "Half Yearly",
+              "price": "1,60,000",
+              "colorCode": "text-success"
             }
           ]
         }
